@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\warst\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\warst\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TestTaskArtDock.-175213684.00" t="ExcludeRecursive" />
+    <e p="C:\Users\warst\Documents\TestTaskArtDock" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="StatSystem" t="Include">
+            <e p="CharStatContainer.cs" t="Include" />
+            <e p="Modificator" t="Include">
+              <e p="StatAddModificator.cs" t="Include" />
+              <e p="StatModificator.cs" t="Include" />
+              <e p="StatPercentModificator.cs" t="Include" />
+            </e>
+            <e p="Stat.cs" t="Include" />
+            <e p="StatData" t="Include">
+              <e p="StatData.cs" t="Include" />
+            </e>
+            <e p="StatDependences.cs" t="Include" />
+            <e p="StatsType.cs" t="Include" />
+            <e p="TestMod" t="Include">
+              <e p="AddModyficatorRealTime.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UI" t="Include">
+            <e p="IndicatorsContainerUI.cs" t="Include" />
+            <e p="StatIndicatorUI.cs" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="EasyButtons" t="Include">
+              <e p="ButtonAttribute.cs" t="Include" />
+              <e p="ButtonsExample.cs" t="Include" />
+              <e p="CustomEditorButtonsExample.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="ButtonEditor.cs" t="Include" />
+                <e p="CustomEditorButtonsExampleEditor.cs" t="Include" />
+                <e p="EasyButtonsEditorExtensions.cs" t="Include" />
+              </e>
+              <e p="ScriptableObjectExample.cs" t="Include" />
+            </e>
+            <e p="Gameprefs" t="Include">
+              <e p="GamePrefs.cs" t="Include" />
+              <e p="PlayerPrefsEditor" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Mac" t="Include">
+                    <e p="Plist.cs" t="Include" />
+                  </e>
+                  <e p="PlayerPrefsEditor.cs" t="Include" />
+                </e>
+                <e p="PlayerPrefsUtility.cs" t="Include" />
+                <e p="README.txt" t="Include" />
+                <e p="SimpleEncryption.cs" t="Include" />
+              </e>
+              <e p="xPrefs.cs" t="Include" />
+            </e>
+            <e p="GradientLerp" t="Include">
+              <e p="Gradinet.cs" t="Include" />
+            </e>
+            <e p="HiResScreenShots.cs" t="Include" />
+            <e p="IkTests.cs" t="Include" />
+            <e p="ParticleDestroy.cs" t="Include" />
+            <e p="ScroolHelper.cs" t="Include" />
+            <e p="TapticEngine" t="Include">
+              <e p="Plugins" t="Include">
+                <e p="TapticManager.cs" t="Include" />
+                <e p="Vibration.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="TestTaskArtDock.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
